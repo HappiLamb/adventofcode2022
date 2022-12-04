@@ -1,6 +1,3 @@
-from tokenize import group
-
-
 with open('day3.txt') as f:
     input = f.readlines()
 
